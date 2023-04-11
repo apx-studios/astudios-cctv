@@ -1,7 +1,3 @@
----------------------------------
----------- Aqade_#1337 ----------
----------------------------------
-
 ### ASTUDIOS | Development - Job Activity: CCTV ###
 
 Check the surveillance camera in the city.
